@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1553836168 source:c:\users\student\desktop\anftoafd\main.cpp
+	<iostream>
+	<fstream>
+	"FA.h"
+	"DFA.h"
+	"NFA.h"
+
+1553835375 source:c:\users\student\desktop\anftoafd\src\fa.cpp
+	"FA.h"
+
+1553835448 c:\users\student\desktop\anftoafd\include\fa.h
+	<string>
+	<istream>
+	<iostream>
+	<vector>
+
+1553835383 source:c:\users\student\desktop\anftoafd\src\dfa.cpp
+	"DFA.h"
+
+1553835436 c:\users\student\desktop\anftoafd\include\dfa.h
+	"FA.h"
+
+1553834870 source:c:\users\student\desktop\anftoafd\src\nfa.cpp
+	"NFA.h"
+
+1553834879 c:\users\student\desktop\anftoafd\include\nfa.h
+	"FA.h"
+
+1555052845 source:c:\users\catalin\desktop\anftoafd\main.cpp
+	<iostream>
+	<fstream>
+	"FA.h"
+	"NFA.h"
+	"DFA2.h"
+
+1554935757 c:\users\catalin\desktop\anftoafd\include\fa.h
+	<string>
+	<istream>
+	<iostream>
+	<vector>
+
+1554328716 c:\users\catalin\desktop\anftoafd\include\dfa.h
+	"FA.h"
+
+1554762518 c:\users\catalin\desktop\anftoafd\include\nfa.h
+	"FA.h"
+	"DFA2.h"
+
+1554755182 source:c:\users\catalin\desktop\anftoafd\src\dfa.cpp
+	"DFA.h"
+
+1554756072 source:c:\users\catalin\desktop\anftoafd\src\fa.cpp
+	"FA.h"
+
+1554935681 source:c:\users\catalin\desktop\anftoafd\src\nfa.cpp
+	"NFA.h"
+
+1554328218 source:c:\users\catalin\desktop\anftoafd\src\multistate.cpp
+	"MultiState.h"
+
+1554328191 c:\users\catalin\desktop\anftoafd\include\multistate.h
+	<vector>
+	"FA.h"
+
+1554935794 source:c:\users\catalin\desktop\anftoafd\src\dfa2.cpp
+	"DFA2.h"
+
+1554935761 c:\users\catalin\desktop\anftoafd\include\dfa2.h
+	"MultiStare.h"
+
+1554934345 source:c:\users\catalin\desktop\anftoafd\src\multistare.cpp
+	"MultiStare.h"
+
+1554933379 c:\users\catalin\desktop\anftoafd\include\multistare.h
+	<string>
+	<vector>
+	<algorithm>
+	"FA.h"
+
